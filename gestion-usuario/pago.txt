@@ -1,3 +1,0 @@
--- IMPLEMENTACIÓN DE FORMA DE PAGO VIRTUAL --
-(Código backend.)
-
