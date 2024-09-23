@@ -1,2 +1,2 @@
-Revisar los documentos de diseño y diagramas técnicos realizados por los
-desarrolladores
+Los documentos de diseño y diagramas técnicos realizados por los
+desarrolladores están ok. 
