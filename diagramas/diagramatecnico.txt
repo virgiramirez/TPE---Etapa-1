@@ -1,0 +1,2 @@
+Revisar los documentos de diseño y diagramas técnicos realizados por los
+desarrolladores
