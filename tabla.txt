@@ -1,1 +1,3 @@
 TABLA PARA DB!
+Id | Usuario | Fecha
+01 | "John Doe"| 30/09/2024 
