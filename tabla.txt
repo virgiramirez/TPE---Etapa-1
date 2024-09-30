@@ -1,3 +1,11 @@
 TABLA PARA DB!
+<<<<<<< HEAD
 Id | Usuario | Fecha
 01 | "John Doe"| 30/09/2024 
+=======
+
+- USUARIO
+- ID
+- NOMBRE
+- APELLIDO
+>>>>>>> f23669ff6250ced4ce5d5bfa19f3ffb99023c28f
