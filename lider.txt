@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modificacion punto 15
+=======
+--- TAREAS DEL LIDER ---
+>>>>>>> 18f726b8b70ab9a180d9dd9bf9ed973f0d9379e2
